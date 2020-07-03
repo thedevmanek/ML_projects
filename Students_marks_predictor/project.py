@@ -8,13 +8,8 @@ Original file is located at
 
 #Importing the required libraries
 """
-
-import matplotlib.pyplot as plt
-from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
-from sklearn.metrics import accuracy_score
 import numpy as np
-from sklearn.preprocessing import LabelEncoder
 import pandas as pd
 
 """# Importing the dataset"""
